@@ -1,0 +1,12 @@
+{
+    "name": "employee_tracker_cms",
+    "description": "A command-line application that manages a company's employee database",
+    "authors": "ahgeak",
+    "version": "1.0.0",
+    "main": "server.js",
+    "dependencies": {
+        "express": "^4.16.4",
+        "inquirer": "^8.2.4",
+        "mysql2": "^2.2.5"
+    }
+}
