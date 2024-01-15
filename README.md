@@ -15,11 +15,12 @@ A command-line application that manages a company's employee database. This proj
 
 To run this program the user will need to copy the files to their local machine and open the terminal. Once in the terminal the user will run the command "node server" to launch the program. The user will be presented with options that they can navigate between to decide the action they would like to take.
 
-- GitHub Repo: https://github.com/ahgeak/employee_tracker_cms
-
 ## Usage
 
 Once the user has downloaded the files they will run the command "node server" and follow the on screen prompts to view, add and update the database.
+
+- GitHub Repo: https://github.com/ahgeak/employee_tracker_cms
+- Video of Program: https://drive.google.com/file/d/1cg5aJa3tcANclnAqoaopsmqxHV2zj9xU/view  
 
 Program Images:
 
